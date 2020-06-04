@@ -6,4 +6,7 @@ Deep Learning: A Textbook*](https://www.springer.com/gp/book/9783319944623),
 
 ## How to contribute
 
-TODO
+If you find a typo or have some general comments and improvements on poorly
+explained concepts, please create an issue and describe the problem. Your
+description should include the **relevant page number**,
+**paragraph and line number**, and proposed solution.
