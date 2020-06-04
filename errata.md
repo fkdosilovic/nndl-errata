@@ -2,6 +2,8 @@
 
 ## 1. An Introduction to Neural Networks
 
+- Page 5. , 1st paragraph, 4th row - $\mathbf{X} = [x_1, \ldots x_d]$ should be $\mathbf{X} = [x_1 \ldots x_d]$
+
 ## 2. Machine Learning with Shallow Neural Networks
 
 ## 3. Training Deep Neural Networks
