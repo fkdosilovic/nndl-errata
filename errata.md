@@ -2,7 +2,8 @@
 
 ## 1. An Introduction to Neural Networks
 
-- Page 5. , 1st paragraph, 4th row - $\mathbf{X} = [x_1, \ldots x_d]$ should be $\mathbf{X} = [x_1 \ldots x_d]$
+- Page 5, 1st paragraph, 4th row - $\mathbf{X} = [x_1, \ldots x_d]$ should be
+$\mathbf{X} = [x_1 \ldots x_d]$
 
 ## 2. Machine Learning with Shallow Neural Networks
 
@@ -13,6 +14,25 @@
 ## 5. Radial Basis Function Networks
 
 ## 6. Restricted Boltzmann Machines
+
+- Page 237, 3rd paragraph, 2nd to last row before Eq. 6.1, - $\mathbf{s} =
+(s_1, \ldots s_d)$ should be $\mathbf{s} = (s_1 \ldots s_d)$
+- Page 243, Eq. 6.7, - $P(s_i = 1 | s_1, \ldots, s_{i-1},s_{i+1}, s_q)$ should
+be $P(s_i = 1 | s_1, \ldots, s_q)$
+- Page 244, derivation of $P(s_i = 1 | s_1, \ldots, s_{i-1},s_{i+1}, s_q)$ -
+$P(s_i = 1 | s_1, \ldots, s_{i-1},s_{i+1}, s_q)$ should be $P(s_i = 1 | s_1, \ldots, s_q)$
+- Page 244, section *6.3.1 How a Boltzmann Machine Generates Data*, 1st
+paragraph, sentence in 6th row starts with "The notion of thermal equilibrium
+means ..." but fails to explain what thermal equilibrium is. From a short
+correspondence with the autor that sentence can be replaced with "The notion of
+thermal equilibrium means that the observed frequencies of sampling
+various attribute values represent their long-term steady-state probability
+distributions."
+- Page 244, section *6.3.1 How a Boltzmann Machine Generates Data*, 1st
+paragraph, 5th row from the bottom - $P(s_i = 1 | s_1 \ldots s_{i-1},s_{i+1}, \ldots s_q)$
+should be $P(s_i = 1 | s_1, \ldots, s_q)$
+- Page 248, 5th row after Eq. 6.15 - "... variables and only the **hidden** variables." should
+be "... variables and only the **visible** variables."
 
 ## 7. Recurrent Neural Networks
 
