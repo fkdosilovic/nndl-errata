@@ -1,9 +1,13 @@
 # Errata for *Neural Networks and Deep Learning: A Textbook*
 
+**Date**: September 1, 2020
+
 ## 1. An Introduction to Neural Networks
 
 - Page 5, 1st paragraph, 4th row - $\mathbf{X} = [x_1, \ldots x_d]$ should be
 $\mathbf{X} = [x_1 \ldots x_d]$
+
+- Page 32, 1st paragraph in subsection *1.5.1 The Importance of Nonlinear Activation*, 4th row - "There are two instances, A and B, ..." should be "There are two instances, A and **C**, ..."
 
 ## 2. Machine Learning with Shallow Neural Networks
 
